@@ -1,4 +1,4 @@
-### Django-React Learning
+### Django-React Learning, details refer to : https://www.valentinog.com/blog/drf/#Django_REST_with_React_Django_and%20React_together
 - *react_django*
 Self_learning_for_react_django, steps are learn from https://www.youtube.com/watch?v=Uyei2iDA4Hs
 
@@ -113,3 +113,7 @@ python3 manage.py runserver
 
 - *Check if your django web is works via http://localhost:8000/api/leads/*
 - *you can debug api via "postman" software or chrome's extention "ApiDebug-Http"*
+
+
+### Start the React Part
+-  
