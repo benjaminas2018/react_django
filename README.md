@@ -116,4 +116,6 @@ python3 manage.py runserver
 
 
 ### Start the React Part
--  
+
+
+npm i redux react-redux redux-thunk redux-devtools-extension
