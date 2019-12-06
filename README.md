@@ -133,3 +133,10 @@ npm i react react-dom prop-types --save-dev
 npm i redux react-redux redux-thunk redux-devtools-extension
 npm i axios
 ```
+
+- * Problem when run npm install
+```
+sudo npm cache clean --force
+sudo rm rf node_modules
+sudo npm install
+```
