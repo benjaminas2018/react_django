@@ -140,3 +140,10 @@ sudo npm cache clean --force
 sudo rm rf node_modules
 sudo npm install
 ```
+
+* - Authentication Steps
+```
+npm i react-router-dom
+```
+
+* create Regester.js and Login.js under components/accounts, the accounts folder is created first
