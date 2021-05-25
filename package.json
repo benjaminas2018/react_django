@@ -42,7 +42,7 @@
     "babel-traverse": "^6.26.0",
     "babel-types": "^6.26.0",
     "babylon": "^6.18.0",
-    "browserslist": "^4.7.3",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30001012",
     "core-js": "^2.6.10",
     "define-properties": "^1.1.3",
