@@ -61,7 +61,7 @@
     "node-releases": "^1.1.41",
     "object-keys": "^1.1.1",
     "object.assign": "^4.1.0",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "private": "^0.1.8",
     "react-alert": "^6.0.0",
     "react-alert-template-basic": "^1.0.0",
